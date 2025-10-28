@@ -59,5 +59,3 @@ Reads a pollution index and displays which industry groups must stop their activ
 - ≥ 0.30 → Group 1 stops  
 - ≥ 0.40 → Groups 1 and 2 stop  
 - ≥ 0.50 → Groups 1, 2, and 3 stop  
-
----
