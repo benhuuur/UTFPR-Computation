@@ -77,4 +77,4 @@ The program randomly selects a **multiplication table** and tracks **correct and
 At the end, display the total and print a message according to performance:  
 - ≤ 3 errors → “You’re doing great!”  
 - ≤ 5 errors → “Good, but you should study more!”  
-- > 5 errors → “You need to study more.”
+- \> 5 errors → “You need to study more.”
